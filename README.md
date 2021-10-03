@@ -5,6 +5,7 @@
        1)  one player can move his tile with up and down arrow
        2)  second player can move his tile with w snd s key of keyboard.
        3)  Task for every player is to hit the ball back .
+      
        
 #### Now Let's talk about code
         1) GUI is made from python turtle window.

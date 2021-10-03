@@ -14,7 +14,8 @@
         5) and it start increasing when it touches the left tile.
         
 #### Preview
-      ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48486760/135767661-7c910ca6-93a4-4e43-9520-78f49738d1cf.gif)
+    
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48486760/135767661-7c910ca6-93a4-4e43-9520-78f49738d1cf.gif)
       
       
       
